@@ -13,7 +13,7 @@
 Все изображения для анализа взяты из оцифрованного архива журнала «Огонёк», доступного на сайте публичной библиотеки для некоммерческого использования: [publ.lib.ru](http://publ.lib.ru).
 
 **Полный набор обложек, использованных в исследовании, доступен по ссылке:**
-👉 **[Скачать датасет обложек «Огонёк» (Google Drive)](https://drive.google.com/drive/folders/19g0DKNmG0id6yPA7Sn4Vgd4tpXbLOmot?usp=sharing)**
+**[Скачать датасет обложек «Огонёк» (Google Drive)](https://drive.google.com/drive/folders/19g0DKNmG0id6yPA7Sn4Vgd4tpXbLOmot?usp=sharing)**
 
 Датасет организован по десятилетиям:
 - `1931-1940`
