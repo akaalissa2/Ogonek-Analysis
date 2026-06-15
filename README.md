@@ -24,6 +24,21 @@
 - `1981-1990`
 - `1991-2000`
 
+Скачивались через .bat типа:
+
+@echo off
+chcp 65001 >nul
+title Загрузка журнала "Огонек" 1973-1990
+
+set BASE_URL=https://publ.lib.ru/ARCHIVES/O/''Ogonek''_(jurnal)/
+set OUTPUT_DIR=%USERPROFILE%\Desktop\Ogonek_1973-1990
+
+if not exist "%OUTPUT_DIR%" mkdir "%OUTPUT_DIR%"
+cd /d "%OUTPUT_DIR%"
+
+echo Скачиваю 1973 год...
+curl -L -o "Огонек, 1973, №01.pdf" "%BASE_URL%/%ce%e3%ee%ed%e5%ea,1973,%20b901.pdf"...
+
 ## Методы анализа
 
 1.  **Предобработка изображений**:
