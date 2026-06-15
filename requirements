@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+Pillow
+opencv-python
+tqdm
+streamlit
+scikit-learn
+plotly
+PyMuPDF
